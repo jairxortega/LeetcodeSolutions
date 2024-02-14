@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to the LeetCode Solutions repository! This repository is dedicated to providing clear and efficient solutions to various LeetCode problems, focusing on both the data structures and algorithms utilized in solving each challenge.
+Welcome to the LeetCode Solutions repository! This repository is dedicated to providing clear and efficient solutions to various LeetCode problems, focusing on the data structures/algorithms utilized in solving each challenge.
 
 ## Repository Structure
 Each solution in this repository is organized according to the data structure or algorithm it employs. For every problem solved, you will find:
