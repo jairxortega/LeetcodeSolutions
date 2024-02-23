@@ -16,3 +16,4 @@ class Solution:
 
 # Time complexity: O(n)
 # The run time is O(n) because we are only iterating through the operations list once.
+# Space complexity: O(n)
